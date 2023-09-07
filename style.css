@@ -1,0 +1,30 @@
+.kinggrid{
+    border: dotted;
+    border-width: thin;
+    justify-content: flex-start;
+}
+.queengrid{
+    border: dotted;
+    border-width: thin;
+}
+.rookgrid{
+    border: dotted;
+    border-width: thin;
+}
+.bishopgrid{
+    border: dotted;
+    border-width: thin;
+}
+.knightgrid{
+    border: dotted;
+    border-width: thin;
+}
+.pawngrid{
+    border: dotted;
+    border-width: thin;
+}
+.specialgrid{
+    border: dotted;
+    border-width: thin;
+}
+
